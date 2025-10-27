@@ -1,11 +1,13 @@
 h1 {
     text-align: center;
+    color: wheat;
 }
 
-input {
+.nev {
     text-align: center;
-}
-
-button {
-    text-align: center;
+    padding: 20px;
+    margin: 15px;
+    border-radius: 17px;
+    transition: 0, 5 s;
+    position: relative;
 }
